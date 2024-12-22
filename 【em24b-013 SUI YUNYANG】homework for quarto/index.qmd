@@ -1,0 +1,37 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is Sui Yunyang's GitHub
+    - icon: github
+      text: Github
+      href: This is Sui Yunyang's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is Sui Yunyang's GitHub
+    - icon: envelope
+      text: Email
+      href: This is Sui Yunyang's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+Hello everyone, my name is Sui Yunyang and I am delighted to introduce myself here.
+My name is Sui Yunyang.  I come from Harbin, Heilongjiang Province, China. 
+I graduated from Heilongjiang University majoring in finance. 
+My first job after graduation was in a bank, but because of my love for the teaching industry, I now work in a university as a University teacher. 
+I choose to complete my postgraduate study in Belarusian State University, where the teachers have a strong academic background and the students are united and loving.
+I hope to build my motherland well after returning home, and I hope to gain something this year.
+I hope that after the completion of the study, I can return to my post to better teach students. I am sure I will realize my dream at Belarusian State University.
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">suiyunyang</a>
+</div>
+```
+
+
